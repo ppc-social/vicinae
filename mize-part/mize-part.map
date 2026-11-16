@@ -1,0 +1,6 @@
+{
+  global:
+    part_vicinae;
+  local:
+    *;
+};
